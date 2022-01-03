@@ -1,4 +1,4 @@
-# Bienvenue sur mon repository !
+# Bonjour et bienvenue sur mon repository !
 
 [VOIR LA PAGE INTERNET](https://damienrigaudeau.github.io/projet_portfolio/)
 
