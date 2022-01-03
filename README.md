@@ -2,7 +2,7 @@
 
 [VOIR LA PAGE INTERNET](https://damienrigaudeau.github.io/projet_portfolio/)
 
-'''html
+```html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -72,4 +72,4 @@
         </footer>
     </body>
 </html>
-'''
+```
